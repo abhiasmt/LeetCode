@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhiasmt/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0137-single-number-ii](https://github.com/abhiasmt/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/abhiasmt/LeetCode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhiasmt/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhiasmt/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/abhiasmt/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/abhiasmt/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
