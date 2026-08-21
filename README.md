@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/abhiasmt/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/abhiasmt/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhiasmt/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/abhiasmt/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhiasmt/LeetCode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhiasmt/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/abhiasmt/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/abhiasmt/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
