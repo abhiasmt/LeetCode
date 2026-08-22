@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhiasmt/LeetCode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/abhiasmt/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhiasmt/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhiasmt/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
