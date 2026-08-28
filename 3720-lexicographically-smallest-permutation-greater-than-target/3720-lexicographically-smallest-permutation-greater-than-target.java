@@ -1,40 +1,48 @@
 class Solution {
 
+    String result="";
     public String lexGreaterPermutation(String s, String target) {
-        int[] cnt = new int[26];
-        for (int i = 0; i < s.length(); i++) {
-            cnt[s.charAt(i) - 'a']++;
-            cnt[target.charAt(i) - 'a']--;
+        int[] count=new int[26];
+
+        for(char ch : s.toCharArray()){
+            count[ch-'a']++;
+        }
+        StringBuilder curr=new StringBuilder();
+        solve(curr,count,target,0, false);
+
+        return result;
+    } 
+
+    boolean solve(StringBuilder curr, int[] count, String target, int i, boolean greater){
+        if(i==target.length()){
+            if(greater){
+                result=curr.toString();
+                return true;
+            }
+            return false;
         }
 
-
-        char[] t = target.toCharArray();
-        for (int i = s.length() - 1; i >= 0; i--) {
-            int b = t[i] - 'a';
-            cnt[b]++; 
-  
-            if (Arrays.stream(cnt).min().getAsInt() < 0) {
+        for(char ch='a';ch<='z';ch++){
+            if(count[ch-'a']==0){
                 continue;
             }
-     
-            for (int j = b + 1; j < 26; j++) {
-                if (cnt[j] > 0) {
-                    cnt[j]--;
-                    t[i] = (char) ('a' + j);
-                    return new String(t, 0, i + 1) + getMinString(cnt);
-                }
+            if(greater==false && ch<target.charAt(i)){
+                continue;
             }
-        }
 
-        return "";
-    }
+            curr.append(ch);
+            count[ch-'a']--;
 
-    
-    private String getMinString(int[] cnt) {
-        StringBuilder res = new StringBuilder();
-        for (int i = 0; i < 26; i++) {
-            res.append(String.valueOf((char) ('a' + i)).repeat(cnt[i]));
+            boolean isGreater = greater || ch>target.charAt(i);
+
+            if(solve(curr,count,target,i+1, isGreater)){
+                return true;
+            }
+
+            curr.deleteCharAt(curr.length()-1);
+            count[ch-'a']++;
         }
-        return res.toString();
+        return false;
     }
 }
+
