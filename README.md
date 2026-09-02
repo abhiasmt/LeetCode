@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/abhiasmt/LeetCode/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/abhiasmt/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/abhiasmt/LeetCode/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/abhiasmt/LeetCode/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhiasmt/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhiasmt/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/abhiasmt/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/abhiasmt/LeetCode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/abhiasmt/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhiasmt/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/abhiasmt/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/abhiasmt/LeetCode/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/abhiasmt/LeetCode/tree/master/0832-flipping-an-image) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhiasmt/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhiasmt/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhiasmt/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhiasmt/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0832-flipping-an-image](https://github.com/abhiasmt/LeetCode/tree/master/0832-flipping-an-image) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/abhiasmt/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/abhiasmt/LeetCode/tree/master/0832-flipping-an-image) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhiasmt/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
