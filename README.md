@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abhiasmt/LeetCode/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhiasmt/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/abhiasmt/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/abhiasmt/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/abhiasmt/LeetCode/tree/master/1872-stone-game-viii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/abhiasmt/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/abhiasmt/LeetCode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/abhiasmt/LeetCode/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhiasmt/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhiasmt/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhiasmt/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhiasmt/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
