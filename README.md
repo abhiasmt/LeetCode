@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhiasmt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/abhiasmt/LeetCode/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/abhiasmt/LeetCode/tree/master/0137-single-number-ii) |
+| [0198-house-robber](https://github.com/abhiasmt/LeetCode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/abhiasmt/LeetCode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/abhiasmt/LeetCode/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhiasmt/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhiasmt/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/abhiasmt/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/abhiasmt/LeetCode/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/abhiasmt/LeetCode/tree/master/0198-house-robber) |
 | [0940-distinct-subsequences-ii](https://github.com/abhiasmt/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/abhiasmt/LeetCode/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhiasmt/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
