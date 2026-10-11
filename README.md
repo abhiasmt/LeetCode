@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/abhiasmt/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/abhiasmt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/abhiasmt/LeetCode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/abhiasmt/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/abhiasmt/LeetCode/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/abhiasmt/LeetCode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/abhiasmt/LeetCode/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/abhiasmt/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/abhiasmt/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/abhiasmt/LeetCode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/abhiasmt/LeetCode/tree/master/0832-flipping-an-image) |
